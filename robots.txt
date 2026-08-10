@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-besplatnymi-frispinami.github.io
+Sitemap: https://kazino-s-besplatnymi-frispinami.github.io/sitemap.xml
